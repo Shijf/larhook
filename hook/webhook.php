@@ -1,7 +1,7 @@
 <?php
     error_reporting(1);
 
-    $target = '/www/web/ngrok_9shop_club/public_html/larhook'; // 生产环境web目录
+    $target = '/www/web/ngrok_9shop_club/public_html'; // 脡煤虏煤禄路戮鲁web脛驴脗录
 
     $token = 'photo';
     $wwwUser = 'root';
